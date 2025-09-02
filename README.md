@@ -23,7 +23,7 @@ This project is perfect for beginners who want to practice Python basics like li
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repository
-https://github.com/AADARSH028/todo_list/new/main?readme=1git
+https://github.com/AADARSH028/todo_list
 
 ---  
 ## 📌 Future Improvements
